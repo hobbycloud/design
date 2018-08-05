@@ -9,7 +9,7 @@ This living document serves as a source of reference material for website design
 - Title/Headings/Word mark: ACME (https://fonts.google.com/specimen/Acme)
 - Body copy: PT Sans (https://fonts.google.com/specimen/PT+Sans)
 
-TODO: Add screenshot here
+![fonts screenshot](font-screenshot.png)
 
 # Colors
 - Primary BG: #43a047
@@ -19,7 +19,7 @@ TODO: Add screenshot here
 - Secondary Light BG: #63a3ff
 - Secondary Dark BG: #004a9f
 
-TODO: Add screenshot here
+![colors screenshot](color-screenshot.png)
 
 # Logo
 For now, a word mark will be used until a more final logo is designed. The word mark is lower-case "hobbycloud" with "cloud" being colored in the secondary background color (when on any BG except a secondary one) and "hobby" being in black/white (depending on background darkness).
